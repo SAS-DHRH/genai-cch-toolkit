@@ -1,6 +1,6 @@
 ---
-section: Copyright_legislation
-nav_order: 1
+section_id: Copyright_legislation
+nav_order: 3
 title: EU Copyright legislation
 topics: Copyright legislation; EU
 ---
