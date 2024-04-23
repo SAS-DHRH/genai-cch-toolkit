@@ -14,10 +14,4 @@ I will try to offer comprehensive and accessible accounts around ‘hot topics�
 **Please don’t hesitate to add interesting resources or questions you might have! This is a work-in-progress.**
 
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-{% include toc.html %}
-
 {% include template/credits.html %}
