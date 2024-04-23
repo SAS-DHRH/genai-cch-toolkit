@@ -1,5 +1,5 @@
 ---
-section: Definitions
+section_id: Definitions
 nav_order: 2
 title: AI definitions
 topics: AI definitions
