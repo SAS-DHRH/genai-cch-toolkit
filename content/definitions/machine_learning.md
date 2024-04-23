@@ -2,7 +2,7 @@
 section: Definitions
 nav_order: 3
 title: Machine Learning
-topics: Site options; _config.yml
+topics: machine learning; deep learning
 ---
 
 **Machine Learning  {under development}**
