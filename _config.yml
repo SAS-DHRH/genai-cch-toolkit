@@ -1,4 +1,13 @@
+#########
+#
+# Learn-Static Lesson Template
+# a Jekyll template for a simple lesson or workshop website
+# with a sidebar content nav layout
+# https://github.com/learn-static/lesson-template
+#
+#########
 
+#######
 # SITE SETTINGS
 #
 # title appears in the header
