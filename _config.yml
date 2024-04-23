@@ -11,23 +11,23 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Learn-Static Lesson Template
+title: A toolkit for Generative AI, data protection and intellectual property in digital cultural heritage 
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/ (or look in "_includes/bootstrap-icons")
 # some options: code-slash file-code gear tools lightblub book bookmark-star
 title-icon: code-slash
 # description appears in sidebar footer
-description: "Create a lesson website with markdown"
+description: "Navigate responsibly and ethically in GenAI, copyright and digital cultural heritage"
 # keywords for meta tags used by search engines
-keywords: "workshops, websites, gh-pages, jekyll"
+keywords: "GenAI, copyright, digital cultural heritage"
 # image for meta tags, will appear when sharing link on social media
 featured-image: "/images/uidaho-workshop.jpg"
 
 # author name, displayed in credits
-author: evanwill
+author: Anna-Maria Sichani 
 # year or date published, displayed in sidebar
-publication_year: 2022
+publication_year: April 2024
 # location of code, the full url to your github repository
 source-code: https://github.com/learn-static/lesson-template
 # content license (typically "cc by-sa"), displayed in sidebar
@@ -52,20 +52,6 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # base-font-size:
 
 ##########
-# URL VARIABLES [optional!]
-#
-# Optional if using GitHub Pages! If building manually, these must be set correctly.
-#
-# use url for the domain, e.g. https://evanwill.github.io
-# on gh-pages follow the pattern: https://username.github.io
-# url:
-# use baseurl to add subsection of the domain, e.g. /workshop-template-b
-# on gh-pages this is a / followed by the name of the repository
-# baseurl is your github repository's name prefixed with a /
-# baseurl:
-
-
-##########
 # ROBOTS EXCLUDE [optional!]
 #
 # set noindex to true if you do NOT want Google to index your site
@@ -80,7 +66,7 @@ defaults:
   - scope:
       path: "content"
     values:
-      layout: "lesson-content"
+      layout: "content"
 # ignore stuff
 exclude: [README.md, LICENSE, assets/lib/README.md]
 # Build settings
