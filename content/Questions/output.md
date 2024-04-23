@@ -1,7 +1,7 @@
 ---
 section: Questions 
 nav_order: 2
-title: Questions related to the GenAI input
+title: Questions related to the GenAI output
 topics: Questions; Input; GenAI
 ---
 
