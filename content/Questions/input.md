@@ -1,6 +1,6 @@
 ---
-section: Questions 
-nav_order: 1
+section_id: Questions 
+nav_order: 4
 title: Questions related to the GenAI input
 topics: Questions; Input; GenAI
 ---
