@@ -2,7 +2,7 @@
 section: Definitions
 nav_order: 1
 title: AI definitions
-topics: Site options; _config.yml
+topics: AI definitions
 ---
 
 
@@ -42,3 +42,10 @@ GPAI is defined as an AI system that "is intended by the provider to perform gen
 ** Definitions of foundation models and GPAI are similar and these terms are often used interchangeably (see below)**
 
 **One subset of GPAI systems are systems which can create, generate, or develop images, text, codes and so on. These systems are known as **Generative AI** (see below)**
+
+
+**Generative AI**
+
+**Generative AI** is a subset of GPAI systems that can generate something new: text outputs, images, music and even computer code. Generative AI models are fed vast quantities of existing content to train the models to learn to identify underlying patterns in the data set and, when given a prompt, to generate new data that mirrors the training set /patterns(or outputs based on these patterns). Generative AI relies thus on ‘machine learning’ to understand, predict, and create new content from massive amounts of  training data: machine learning provides the training that ‘fuels’ the AI to produce its result.
+
+—> The Key difference between **traditional AI and generative AI** lies in their capabilities and application. Traditional AI systems are primarily used to analyze data and make predictions (’**its smart, but it’s not necessarily responsive’)** while generative AI can create new data similar to its training data.
