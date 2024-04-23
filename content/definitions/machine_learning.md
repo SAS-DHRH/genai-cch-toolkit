@@ -1,6 +1,6 @@
 ---
 section: Definitions
-nav_order: 3
+nav_order: 4
 title: Machine Learning
 topics: machine learning; deep learning
 ---
