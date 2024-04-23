@@ -2,7 +2,7 @@
 section: Definitions
 nav_order: 2
 title: Models
-topics: Site options; _config.yml
+topics: foundation models, LLMs
 ---
 
 
