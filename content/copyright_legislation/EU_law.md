@@ -5,24 +5,26 @@ title: EU Copyright legislation
 topics: Copyright legislation; EU
 ---
 
-
 **EU Artificial Intelligence Act**
-    
-    The European Union is leading the way with the [EU Artificial Intelligence Act (AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206)), initially released on 21 April 2021. The Act is the first-ever comprehensive legal framework that sets out harmonised rules for the use, deployment and development of AI of Artificial Intelligence in the European Union.
-    
-    This is a significant piece of legislation which will apply to **providers, users, importers and distributors of AI systems**, **‘horizontally’** (ie across all sectors) and will have a wide territorial reach (eg it can apply to non-EU organisations that supply AI systems into the EU). 
+
+
+ The European Union is leading the way with the [EU Artificial Intelligence Act (AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206)), initially released on 21 April 2021. The Act is the first-ever comprehensive legal framework that sets out harmonised rules for the use, deployment and development of AI of Artificial Intelligence in the European Union.
+
+This is a significant piece of legislation which will apply to **providers, users, importers and distributors of AI systems**, **‘horizontally’** (ie across all sectors) and will have a wide territorial reach (eg it can apply to non-EU organisations that supply AI systems into the EU). 
     
 **timeline**
     
-    The discussion has been ongoing since 2018 , with an  [European Commission’s (Commission) original draft](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206) out in 2021, the position of the [Council](https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf) of the European Union (Council), and the [European Parliament’s (Parliament) position](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.pdf) (2023). {See here for a detailed [timeline of the EU Artificial Intelligence Act (AI Act)](https://www.artificial-intelligence-act.com) progress so far.}
+ The discussion has been ongoing since 2018 , with an  [European Commission’s (Commission) original draft](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206) out in 2021, the position of the [Council](https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf) of the European Union (Council), and the [European Parliament’s (Parliament) position](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.pdf) (2023). {See here for a detailed [timeline of the EU Artificial Intelligence Act (AI Act)](https://www.artificial-intelligence-act.com) progress so far.}
     
- - On June 14, 2023 the European Parliament (the “Parliament”) **approved** , after negotiation, its [version](https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai) of the draft EU Artificial Intelligence Act (the “EU AI Act”).
+ - On 14 June 2023 the European Parliament (the “Parliament”) **approved** , after negotiation, its [version](https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai) of the draft EU Artificial Intelligence Act (the “EU AI Act”).
  -  On 8 December 2023 the representatives of the European Parliament, EU Member States and European Commission **[reached a provisional agreement on the EU AI Act](https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai).**
   -  Scheduled to take effect in the **spring of 2024,** and with a grace period in place (likely two years from implementation).
  
-      - **LATEST UPDATE:** On February 2, 2024 EU Member States vote unanimously to approve AI Act   {under development}
+  - **LATEST UPDATE:** On February 2, 2024 EU Member States vote unanimously to approve AI Act   {under development}
+
 
 ***‘Brussels effect’:** As the first legislative proposal of its kind in the world, it can set a *global standard* for AI regulation in other legal systems, just as the GDPR has done, thus promoting the European approach to influence generative AI  regulation globally.
+
     
  **A ‘risk-based’ approach** 
     
@@ -32,9 +34,10 @@ topics: Copyright legislation; EU
     
     2.according to the **specific role of actors** and 
     
-    3. according to **sectorial differences**. 
-    
-    The risk levels have so far been at the [centre of attention.](https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai) There is generally a distinction between AI systems which cause:
+    3. according to sectorial differences* 
+
+ 
+ The risk levels have so far been at the [centre of attention.](https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai) There is generally a distinction between AI systems which cause:
     
     - **Unacceptable risks -**  ***Prohibited AI Practices*** AI systems with an unacceptable level of risk to people’s safety would therefore be prohibited as well as  intrusive and discriminatory uses of AI, such as “Real-time” remote biometric identification systems in publicly accessible spaces; predictive policing systems (based on profiling, location or past criminal behaviour); emotion recognition systems in law enforcement, border management, the workplace, and educational institutions; and untargeted scraping of facial images from the internet or CCTV footage to create facial recognition databases (violating human rights and right to privacy). (**the higher the risk, the stricter the rules)**
     - **High risks -** AI systems that pose significant harm to people’s health, safety, fundamental rights or the environment. AI systems used to influence voters and the outcome of elections and in [recommender systems](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A277%3ATOC) used by very large online platforms (VLOPs , with over 45 million users) were added to the high-risk list.
