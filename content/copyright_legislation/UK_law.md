@@ -1,5 +1,5 @@
 ---
-section: Copyright_legislation
+section: Copyright legislation
 nav_order: 2
 title: UK Copyright legislation
 topics: Copyright legislation; UK
