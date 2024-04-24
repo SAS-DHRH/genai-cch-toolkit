@@ -1,31 +1,30 @@
 ---
-section_id: Copyright_legislation
+section_id: Copyright legislation
 nav_order: 3
 title: EU Copyright legislation
 topics: Copyright legislation; EU
 ---
 
 
-- **EU Artificial Intelligence Act**
+**EU Artificial Intelligence Act**
     
     The European Union is leading the way with the [EU Artificial Intelligence Act (AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206)), initially released on 21 April 2021. The Act is the first-ever comprehensive legal framework that sets out harmonised rules for the use, deployment and development of AI of Artificial Intelligence in the European Union.
     
     This is a significant piece of legislation which will apply to **providers, users, importers and distributors of AI systems**, **‘horizontally’** (ie across all sectors) and will have a wide territorial reach (eg it can apply to non-EU organisations that supply AI systems into the EU). 
     
-    **timeline**
+**timeline**
     
     The discussion has been ongoing since 2018 , with an  [European Commission’s (Commission) original draft](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206) out in 2021, the position of the [Council](https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf) of the European Union (Council), and the [European Parliament’s (Parliament) position](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.pdf) (2023). {See here for a detailed [timeline of the EU Artificial Intelligence Act (AI Act)](https://www.artificial-intelligence-act.com) progress so far.}
     
-    - On June 14, 2023 the European Parliament (the “Parliament”) **approved** , after negotiation, its [version](https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai) of the draft EU Artificial Intelligence Act (the “EU AI Act”).
-    - On 8 December 2023 the representatives of the European Parliament, EU Member States and European Commission **[reached a provisional agreement on the EU AI Act](https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai).**
-    - Scheduled to take effect in the **spring of 2024,** and with a grace period in place (likely two years from implementation).
-    - **LATEST UPDATE:**
+ - On June 14, 2023 the European Parliament (the “Parliament”) **approved** , after negotiation, its [version](https://www.europarl.europa.eu/news/en/press-room/20230609IPR96212/meps-ready-to-negotiate-first-ever-rules-for-safe-and-transparent-ai) of the draft EU Artificial Intelligence Act (the “EU AI Act”).
+ -  On 8 December 2023 the representatives of the European Parliament, EU Member States and European Commission **[reached a provisional agreement on the EU AI Act](https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai).**
+  -  Scheduled to take effect in the **spring of 2024,** and with a grace period in place (likely two years from implementation).
+ 
+      - **LATEST UPDATE:** On February 2, 2024 EU Member States vote unanimously to approve AI Act   {under development}
+
+***‘Brussels effect’:** As the first legislative proposal of its kind in the world, it can set a *global standard* for AI regulation in other legal systems, just as the GDPR has done, thus promoting the European approach to influence generative AI  regulation globally.
     
-    **February 2, 2024 - EU Member States vote unanimously to approve AI Act   {under development}**
-    
-    *** ‘Brussels effect’:** As the first legislative proposal of its kind in the world, it can set a **global standard** for AI regulation in other legal systems, just as the GDPR has done, thus promoting the European approach to influence generative AI  regulation globally.
-    
-    **A ‘risk-based’ approach** 
+ **A ‘risk-based’ approach** 
     
     The main approach to regulation comprises three structural dimensions: 
     
