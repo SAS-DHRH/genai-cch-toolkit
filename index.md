@@ -1,5 +1,5 @@
 ---
-title: A Generative AI, data protection and intellectual property in digital cultural heritage toolkit
+title: A toolkit for Generative AI, data protection and intellectual property in digital cultural heritage 
 layout: content
 ---
 
