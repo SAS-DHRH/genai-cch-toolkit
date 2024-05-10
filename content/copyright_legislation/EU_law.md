@@ -5,14 +5,14 @@ title: EU Legal Framework
 topics: Legal Framework; EU
 ---
 
-# EU Artificial Intelligence Act
+## ℹ️ EU Artificial Intelligence Act
 
 
 The European Union is leading the way with the [EU Artificial Intelligence Act (AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206)), initially released on 21 April 2021. The Act is the first-ever comprehensive legal framework that sets out harmonised rules for the use, deployment and development of AI of Artificial Intelligence in the European Union.
 
 This is a significant piece of legislation which will apply to **providers, users, importers and distributors of AI systems**, **‘horizontally’** (ie across all sectors) and will have a wide territorial reach (eg it can apply to non-EU organisations that supply AI systems into the EU). 
     
-## TIMELINE
+### TIMELINE
     
 - The discussion has been ongoing since 2018, with an  [European Commission’s (Commission) original draft](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52021PC0206) out in 2021, the position of the [Council](https://data.consilium.europa.eu/doc/document/ST-14954-2022-INIT/en/pdf) of the European Union (Council), and the [European Parliament’s (Parliament) position](https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.pdf) (2023). {See here for a detailed [timeline of the EU Artificial Intelligence Act (AI Act)](https://www.artificial-intelligence-act.com) progress so far.}
     
@@ -29,7 +29,7 @@ This is a significant piece of legislation which will apply to **providers, user
 ***‘Brussels effect’:** As the first legislative proposal of its kind in the world, it can set a *global standard* for AI regulation in other legal systems, just as the GDPR has done, thus promoting the European approach to influence generative AI  regulation globally.
 
     
-## A ‘risk-based’ approach
+### A ‘risk-based’ approach
     
 The main approach to regulation comprises three structural dimensions:
     
@@ -87,7 +87,7 @@ This EU framework (EU AI Act  & TDM exceptions of the CDSM) respects the **right
  There is a growing recognition among stakeholders of **the need of an intervention that would provide guidance both to creators and other rightholders** seeking means to express opt out of ML training (’supply side’), and to ML developers to respect opt-out requests and to understand what constitutes best efforts to comply with their obligations .
     
  
- **Article 14** protection for works in the public domain {under development}
+**Article 14** protection for works in the public domain {under development}
     
  
     
