@@ -62,7 +62,7 @@ The most important point is the amendment 399 to Art. 28  para. 4, lett. c) that
     
 The transparency provision (see above) and this amendment seem to facilitate rightsholders in better utilizing the opt-out option within the TDM exception (refer to the section below). However, meeting the transparency requirement for data used in foundational models seems challenging due to several factors: the fragmentation of copyright legislation across various jurisdictions, the lack of a standardized documentation process, insufficient ownership and provenance metadata, and technical obstacles as algorithms can be trained using a wide array of sources, making it very difficult to accurately trace their origins. Finally, a widespread utilization of the opt-out option might result to a significant reduction in available datasets for training AI models and this would in turn affect the quality of the AI-produced outputs, by introducing more biases in AI models and systems; a vicious cycle of concerns/ 
     
-## Copyright in the Digital Single Market (CDSM) Directive
+## ℹ️ Copyright in the Digital Single Market (CDSM) Directive
     
 With the adoption of the [Digital Single Market (CDSM) Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0790&qid=1694796443581) in 2019, the European Union has established a harmonised regulatory framework for copyright legislation.
     
