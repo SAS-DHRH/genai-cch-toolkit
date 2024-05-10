@@ -5,7 +5,7 @@ title: UK Legal framework
 topics: Legal framework; UK
 ---
 
-## AI White Paper
+## ℹ️ UK AI White Paper
     
 On 29 March 2023,the UK Government published **“A Pro-Innovation Approach to AI Regulation” ([AI White Paper](https://www.gov.uk/government/publications/ai-regulation-a-pro-innovation-approach/white-paper))** setting out its proposals for regulating the use of artificial intelligence (AI) in the United Kingdom.
     
@@ -30,7 +30,7 @@ The White Paper mentions **generative AI only sparingly.** However, there are th
 
 3.  **[UK AI Standards Hub]**(https://aistandardshub.org/),  which seeks to promote engagement with technical standards and AI assurance techniques. 
     
-#### LATEST UPDATES:
+#### ℹ️ LATEST UPDATES:
 
 
 **2 February 2024** The House of Lords Communications and Digital Committee published its [first report of session 2023-24 on large language models (LLMs) and GenAI](https://publications.parliament.uk/pa/ld5804/ldselect/ldcomm/54/54.pdf) (see here an [interactive summary](https://ukparliament.shorthandstories.com/large-language-models-comms-digital-lords-report/index.html?utm_source=twitter&utm_medium=social&utm_campaign=large-language-models-comms-digital-report&utm_content=cttee-tweet)) urged the government not to “sit on its hands while LLM developers exploit the work of rightsholders” and to end the copyright dispute “definitively” including through legislation if necessary.  **{under development}**
@@ -39,7 +39,7 @@ The White Paper mentions **generative AI only sparingly.** However, there are th
     
 
     
-#### TDM exceptions - TIMELINE
+#### ℹ️ TDM exceptions - TIMELINE
 - The current UK legislation already provides a copyright exception for [TDM under s.29A of the Copyright, Designs and Patents Act 1988 (CDPA)](https://www.legislation.gov.uk/ukpga/1988/48/section/29A) for non-commercial research of copyright works to which a person already has lawful access.
 
 -From **October 2021 to January 2022** the UK Intellectual Property Office (IPO) ran a public consultation on [Artificial Intelligence and IP](https://www.gov.uk/government/consultations/artificial-intelligence-and-ip-copyright-and-patents).
