@@ -7,7 +7,7 @@ topics: foundation models, LLMs
 
 ## Models 
 
-#### Foundation models
+#### ℹ️ Foundation models
 **Foundation models**, also known as ‘general-purpose AI’ or ‘GPAI’, are general-purpose AI systems trained on broad data (generally using self-supervision at scale) and designed to produce a wide and general variety of outputs, including compelling text, images, videos, speech, music, and more. They can be standalone systems or can be used as a ‘base’ (hence “foundation”) on which other applications can be built and thus adapted to a wide range of downstream tasks.
 
 [This is in contrast to many other AI systems, which are specifically trained and then used *for a particular purpose*.] 
@@ -24,7 +24,7 @@ The term was introduced in 2021 by [Stanford and the Stanford Center for Researc
 
 *At present, “foundation model” is often used roughly synonymously with **“large language model**” because language models are currently the clearest example of systems with broad capabilities that can be adapted for specific purposes. “Large language models” specifically refers to **language-focused systems**, while “foundation model” is attempting to stake out a **broader function-based concept**, which could stretch to accommodate new types of systems in the future.
 
-#### Large Language Models
+#### ℹ️ Large Language Models
 
 **Large Language Models (LLMs)** are a specialized type of AI system using machine learning (NLP) and trained on text data that can generate humanlike text-based content in response to a wide range of inputs and prompts.
 
