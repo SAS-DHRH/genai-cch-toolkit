@@ -30,7 +30,7 @@ The White Paper mentions **generative AI only sparingly.** However, there are th
 
 3.  **[UK AI Standards Hub]**(https://aistandardshub.org/),  which seeks to promote engagement with technical standards and AI assurance techniques. 
     
-#### LATEST UPDATES:####
+#### LATEST UPDATES:
 
 
 **2 February 2024** The House of Lords Communications and Digital Committee published its [first report of session 2023-24 on large language models (LLMs) and GenAI](https://publications.parliament.uk/pa/ld5804/ldselect/ldcomm/54/54.pdf) (see here an [interactive summary](https://ukparliament.shorthandstories.com/large-language-models-comms-digital-lords-report/index.html?utm_source=twitter&utm_medium=social&utm_campaign=large-language-models-comms-digital-report&utm_content=cttee-tweet)) urged the government not to “sit on its hands while LLM developers exploit the work of rightsholders” and to end the copyright dispute “definitively” including through legislation if necessary.  **{under development}**
