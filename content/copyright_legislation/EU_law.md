@@ -62,13 +62,13 @@ The most important point is the amendment 399 to Art. 28  para. 4, lett. c) that
     
 The transparency provision (see above) and this amendment seem to facilitate rightsholders in better utilizing the opt-out option within the TDM exception (refer to the section below). However, meeting the transparency requirement for data used in foundational models seems challenging due to several factors: the fragmentation of copyright legislation across various jurisdictions, the lack of a standardized documentation process, insufficient ownership and provenance metadata, and technical obstacles as algorithms can be trained using a wide array of sources, making it very difficult to accurately trace their origins. Finally, a widespread utilization of the opt-out option might result to a significant reduction in available datasets for training AI models and this would in turn affect the quality of the AI-produced outputs, by introducing more biases in AI models and systems; a vicious cycle of concerns/ 
     
-## Copyright in the Digital Single Market (CDSM) Directive**
+## Copyright in the Digital Single Market (CDSM) Directive
     
-    With the adoption of the [Digital Single Market (CDSM) Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0790&qid=1694796443581) in 2019, the European Union has established a harmonised regulatory framework for copyright legislation.
+With the adoption of the [Digital Single Market (CDSM) Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019L0790&qid=1694796443581) in 2019, the European Union has established a harmonised regulatory framework for copyright legislation.
     
 ### Articles 3 & 4 | TDM
     
-    Especially, for cultural heritage institutions and research, Articles 3 and 4 of the CDSM Directive introduced copyright exceptions (copyright infringement) for **text and data mining (TDM),** which authorize the types of reproductions made in the context of machine learning and training ML models on publicly available copyrighted works. 
+Especially, for cultural heritage institutions and research, Articles 3 and 4 of the CDSM Directive introduced copyright exceptions (copyright infringement) for **text and data mining (TDM),** which authorize the types of reproductions made in the context of machine learning and training ML models on publicly available copyrighted works. 
     
 **Article 3** enables the free use of lawfully available copyrighted works for text and data mining (TDM) for the purpose of “scientific research” (i.e., natural and human sciences) undertaken by “research organisations” (e.g., universities, libraries, research institutes) and “cultural heritage institutions” (e.g., publicly accessible libraries or museums, film archive heritage institutions).
     
@@ -89,9 +89,7 @@ This EU framework (EU AI Act  & TDM exceptions of the CDSM) respects the **right
  
  **Article 14** protection for works in the public domain {under development}
     
-    **( see EuropeanaPRO** https://pro.europeana.eu/post/article-14-and-the-public-domain-the-state-of-play-across-europe
-    
-    ‘[Surrogate Intellectual Property Rights in the Cultural Sector](https://illinoisjltp.com/file/213/Wallace_2023_Issue%202.pdf)’ by Andrea Wallace )
+ 
     
 **GDPR {under development}**
     
