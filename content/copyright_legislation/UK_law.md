@@ -39,7 +39,7 @@ The White Paper mentions **generative AI only sparingly.** However, there are th
     
 
     
-#### ℹ️ TDM exceptions - TIMELINE
+## ℹ️ TDM exceptions - TIMELINE
 - The current UK legislation already provides a copyright exception for [TDM under s.29A of the Copyright, Designs and Patents Act 1988 (CDPA)](https://www.legislation.gov.uk/ukpga/1988/48/section/29A) for non-commercial research of copyright works to which a person already has lawful access.
 
 -From **October 2021 to January 2022** the UK Intellectual Property Office (IPO) ran a public consultation on [Artificial Intelligence and IP](https://www.gov.uk/government/consultations/artificial-intelligence-and-ip-copyright-and-patents).
