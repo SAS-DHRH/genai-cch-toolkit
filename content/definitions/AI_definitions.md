@@ -6,7 +6,7 @@ topics: AI definitions
 ---
 
 
-## What is Traditional AI, General Purpose AI, Foundation models, Generative AI?
+## ℹ️ What is Traditional AI, General Purpose AI, Foundation models, Generative AI?
 
 
 
