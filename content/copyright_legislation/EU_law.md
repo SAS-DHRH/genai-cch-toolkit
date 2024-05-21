@@ -46,11 +46,17 @@ The **risk levels** have so far been at the [centre of attention.](https://www.e
  - **High risks** :AI systems that pose significant harm to people’s health, safety, fundamental rights or the environment. AI systems used to influence voters and the outcome of elections and in [recommender systems](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv%3AOJ.L_.2022.277.01.0001.01.ENG&toc=OJ%3AL%3A2022%3A277%3ATOC) used by very large online platforms (VLOPs , with over 45 million users) were added to the high-risk list.
 
 - **Limited risks**:  **providers of foundation models** would be required to ensure a series of **transparency measures** :
-        - Demonstrate through appropriate design, testing and analysis that reasonably foreseeable risks have been properly identified and mitigated;Only incorporate datasets that are subject to appropriate data governance measures for foundation models, including in regard to the suitability of data sources and possible biases;
+- 
+        - Demonstrate through appropriate design, testing and analysis that reasonably foreseeable risks have been properly identified and mitigated; Only incorporate datasets that are subject to appropriate data governance measures for foundation models, including in regard to the suitability of data sources and possible biases;
+  
         - Prepare extensive technical documentation and intelligible instructions of use that allows downstream providers to comply with their respective obligations;
-        - Establish a quality management system to ensure and document compliance with the obligations above; and
+  
+        - Establish a quality management system to ensure and document compliance with the obligations above; 
+  
         - Register the foundation model in an EU database to be maintained by the Commission.
+  
         - Disclose that content was AI-generated and ensure that the system has safeguards against the generation of content in breach of EU law.
+  
         - Publish a summary of the training data used that is protected under copyright law.
   
 - **Low risks**: to boost AI innovation and support SMEs exemptions for research activities and AI components provided under open-source licenses, including regulatory sandboxes, or real-life environments, established by public authorities to test AI before it is deployed. (see also the TDM exception section below)
