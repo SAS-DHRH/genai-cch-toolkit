@@ -3,7 +3,7 @@ title: A toolkit for Generative AI, data protection and intellectual property in
 layout: content
 ---
 
-This is a toolkit for Generative AI, data protection and intellectual property in digital cultural heritage. It has been initially developed by [Dr Anna-Maria Sichani](amsichani.github.io), as part of the [TaNC](https://www.nationalcollection.org.uk)-funded project ['The Congruence Engine'] (https://www.sciencemuseumgroup.org.uk/projects/the-congruence-engine). 
+This is a toolkit for Generative AI, data protection and intellectual property in digital cultural heritage. It has been initially developed by [Dr Anna-Maria Sichani](amsichani.github.io), as part of the [TaNC](https://www.nationalcollection.org.uk)-funded project ['The Congruence Engine:  Digital Tools for New Collections-Based Industrial Histories'](https://www.sciencemuseumgroup.org.uk/projects/the-congruence-engine). 
 
 {% include figure.html img="AI-toolkit.jpg" alt="toolkit image"  width="75%" %}
 
