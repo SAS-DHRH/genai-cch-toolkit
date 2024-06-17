@@ -21,10 +21,41 @@ This is a significant piece of legislation which will apply to **providers, user
  -  On **8 December 2023** the representatives of the European Parliament, EU Member States and European Commission **[reached a provisional agreement on the EU AI Act](https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai).**
 
    
-  -  Scheduled to take effect in the **spring of 2024,** and with a grace period in place (likely two years from implementation).
- 
-  - **LATEST UPDATE:** On February 2, 2024 EU Member States vote unanimously to approve AI Act   {under development}
+  - On **2 February 2024**  EU Member States vote unanimously to approve AI Act.
 
+  - 21 May 2024 – The European Council formally adopted the EU AI Act.
+
+  -  Scheduled to take effect in the **spring of 2024** and with a grace period in place (likely two years from implementation).
+
+  -  **June-July 2024** The AI Act will be published in the Official Journal of the European Union. This serves as the formal notification of the new law.
+    
+  -   After entry into force, the AI Act will apply by the following deadlines:
+
+        - 20 days later – The AI Act will “enter into force” 20 days after it has been published in the Official Journal.
+        
+            - From this date, the following milestones will follow according to [Article 113](https://artificialintelligenceact.eu/article/113/):
+              
+                - 6 months later – [Chapter I](https://artificialintelligenceact.eu/chapter/1/) and [Chapter II](https://artificialintelligenceact.eu/chapter/2/) (prohibitions on unacceptable risk AI) will apply.
+                
+                - 12 months later – [Chapter III Section 4](https://artificialintelligenceact.eu/section/3-4/) (notifying authorities), [Chapter V](https://artificialintelligenceact.eu/chapter/5/) (general purpose AI models), [Chapter VII](https://artificialintelligenceact.eu/chapter/7/) (governance), [Chapter XII](https://artificialintelligenceact.eu/chapter/12/) (confidentiality and penalties) and [Article 78](https://artificialintelligenceact.eu/article/78/) (confidentiality) will apply, with the exception of [Article 101](https://artificialintelligenceact.eu/article/101/) (fines for GPAI providers).
+                
+                - 24 months later – The remainder of the AI Act will apply, except;
+                
+                - 36 months later – [Article 6(1)](https://artificialintelligenceact.eu/article/6/) and the corresponding obligations in this Regulation will apply.
+                                    
+                - Codes of practice must be ready 9 months after entry into force according to [Article 56](https://artificialintelligenceact.eu/article/56/).
+
+
+### Governance
+
+How will the AI Act be implemented?
+
+- The [AI Office](https://digital-strategy.ec.europa.eu/en/policies/ai-office) will be established, sitting within the Commission, to monitor the effective implementation and compliance of GPAI model providers.
+- Downstream providers can lodge a complaint regarding the upstream providers infringement to the AI Office.
+- The AI Office may conduct evaluations of the GPAI model to:
+    - assess compliance where the information gathered under its powers to request information is insufficient.
+    - investigate systemic risks, particularly following a qualified report from the scientific panel of independent experts.
+    - 
 
 ***‘Brussels effect’:** As the first legislative proposal of its kind in the world, it can set a *global standard* for AI regulation in other legal systems, just as the GDPR has done, thus promoting the European approach to influence generative AI  regulation globally.
 
