@@ -1,8 +1,6 @@
 ---
-section: Resources
-nav_order: 1
+nav_order: 5
 title: Resources
-topics: resources; references
 ---
 
 
