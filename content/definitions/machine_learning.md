@@ -48,6 +48,25 @@ A number of machine learning algorithms are commonly used. These include:
 
 
 
+## ℹ️ What is Deep Learning? 
+
+
+
+Deep learning is a subset of machine learning, which automates much of the feature extraction piece of the process, eliminating some of the manual human intervention required. It also enables the use of large data sets, earning the title of scalable machine learning.
+Observing patterns in the data allows a deep-learning model to cluster inputs appropriately. A deep-learning model requires more data points to improve accuracy, whereas a machine-learning model relies on less data given its underlying data structure. 
+
+
+
+#### What’s the difference between machine learning and deep learning ?
+
+
+Since deep learning and machine learning tend to be used interchangeably, it’s worth noting the nuances between the two. Machine learning, deep learning, and neural networks are all sub-fields of artificial intelligence. However, neural networks is actually a sub-field of machine learning, and deep learning is a sub-field of neural networks.
+
+
+The primary difference between machine learning and deep learning is how each algorithm learns and how much data each type of algorithm uses. "Deep" machine learning can use labeled datasets, also known as supervised learning, to inform its algorithm, but it doesn’t necessarily require a labeled dataset. The deep learning process can ingest unstructured data in its raw form (e.g., text or images), and it can automatically determine the set of features which distinguish different categories of data from one another. This eliminates some of the human intervention required and enables the use of large amounts of data. 
+
+Classic or “nondeep” machine learning depends on human intervention to allow a computer system to identify patterns, learn, perform specific tasks and provide accurate results. Human experts determine the hierarchy of features to understand the differences between data inputs, usually requiring more structured data to learn.
+
 
 ## ℹ️ What are Neural networks?
 
