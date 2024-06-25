@@ -1,6 +1,6 @@
 ---
 section: Resources
-nav_order: 1
+nav_order: 4
 title: Resources
 topics: resources; references
 ---
