@@ -11,7 +11,7 @@ The toolkit currently includes three core sections, 'Definitions', 'Legal framew
 
 Aim of this toolkit is to offer comprehensive and accessible accounts around ‘hot topics’ and developments and provide as much information as possible to back them up. Where possible, context relating to the origins and use of terms and examples or case studies is also provided. 
 
-**Please don’t hesitate to get in touch to share interesting resources or questions you might have! This is very much a work-in-progress.**
+**Please don’t hesitate to [get in touch](annamaria.sichani@sas.ac.uk) to share interesting resources or questions you might have! This is very much a work-in-progress.**
 
 
 {% include template/credits.html %}
